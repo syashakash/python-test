@@ -1,10 +1,10 @@
 # NSE Analyis
 -----
 ## Assignment Solution to RedCarpet assignemnt for internship
+=====
 
-=====
 Data Courtesy : <https://github.com/swapniljariwala/nsepy>
-=====
+
 
 Find problem statement in [problem-statement.txt](https://github.com/syashakash/python-test/blob/master/problem-statement.txt)
 
